@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="my_name">По-русски</string>
+    <string name="app_start">Приложение запущено</string>
+    <string name="btn_name">Click</string>
+    <string name="btn_name_exit">Exit</string>
+</resources>
